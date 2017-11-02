@@ -12,3 +12,4 @@ Add your favourites!
 - The blog of Pr. Matthew Green https://blog.cryptographyengineering.com/
 - The blog of Bruce Schneier [Schneier on Security](https://www.schneier.com/blog/)
 - [Cryptologie](https://www.cryptologie.net/) by David Wong
+- (French) audio podcasts [NoLimitSecu](https://www.nolimitsecu.fr/)
