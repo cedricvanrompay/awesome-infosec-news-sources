@@ -13,3 +13,7 @@ Add your favourites!
 - The blog of Bruce Schneier [Schneier on Security](https://www.schneier.com/blog/)
 - [Cryptologie](https://www.cryptologie.net/) by David Wong
 - (French) audio podcasts [NoLimitSecu](https://www.nolimitsecu.fr/)
+
+## Others
+
+- Hacker News (https://news.ycombinator.com/); Only a small part of the content is on security though, and you don't have categorization.
