@@ -17,3 +17,4 @@ Add your favourites!
 ## Others
 
 - Hacker News (https://news.ycombinator.com/); Only a small part of the content is on security though, and you don't have categorization.
+- Bleeping Computer (https://www.bleepingcomputer.com/news/security/)
